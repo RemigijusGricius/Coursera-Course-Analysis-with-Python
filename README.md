@@ -6,7 +6,7 @@ This repository contains a data analysis project that explores Coursera course o
 
 ## Purpose
 
-The purpose of this project is to analyze Coursera's course data to understand trends in course selection and student engagement. The analysis provides insights into how different factors, such as difficulty levels and course ratings, impact student choices and satisfaction. This project demonstrates my skills in Python programming, data analysis, and the ability to generate actionable insights.
+The purpose of this project is to analyze Coursera's course data to understand trends in course selection and student engagement. The analysis provides insights into how different factors, such as difficulty levels and course ratings, impact student choices and satisfaction.
 
 ## Data
 
